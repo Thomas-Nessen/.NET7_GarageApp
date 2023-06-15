@@ -1,0 +1,27 @@
+[
+{"id":0,"name":"Corneel"},
+{"id":0,"name":"Jan"},
+{"id":0,"name":"Joris"},
+{"id":0,"name":"Marie"},
+{"id":0,"name":"Piet"},
+{"id":0,"name":"Sofie"}
+]
+
+TO DO:
+Parkeer garage applicatie, hoort bij appertementen complex
+
+Voertuig behoord tot bestuurder. 
+Welke DB acties behoren daarbij.
+
+TABEL Bestuurder
+TABEL Voertuig
+
+ACTIES:
+==================================
+Hoeveel plaatsen zijn er nog vrij?
+Hoeveel opbrengsten zijn er?
+Wat voor autos komen er binnen?
+
+Voeg een auto toe
+Voeg een bestuurder toe.
+

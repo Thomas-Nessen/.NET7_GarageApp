@@ -1,0 +1,36 @@
+D:\DEVELOPMENT\Study\VS2022dotnet\DotNet6\PythonHelper\bin\Debug\net6.0\PythonHelper.deps.json
+D:\DEVELOPMENT\Study\VS2022dotnet\DotNet6\PythonHelper\bin\Debug\net6.0\PythonHelper.dll
+D:\DEVELOPMENT\Study\VS2022dotnet\DotNet6\PythonHelper\bin\Debug\net6.0\PythonHelper.pdb
+D:\DEVELOPMENT\Study\VS2022dotnet\DotNet6\PythonHelper\obj\Debug\net6.0\PythonHelper.csproj.AssemblyReference.cache
+D:\DEVELOPMENT\Study\VS2022dotnet\DotNet6\PythonHelper\obj\Debug\net6.0\PythonHelper.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEVELOPMENT\Study\VS2022dotnet\DotNet6\PythonHelper\obj\Debug\net6.0\PythonHelper.AssemblyInfoInputs.cache
+D:\DEVELOPMENT\Study\VS2022dotnet\DotNet6\PythonHelper\obj\Debug\net6.0\PythonHelper.AssemblyInfo.cs
+D:\DEVELOPMENT\Study\VS2022dotnet\DotNet6\PythonHelper\obj\Debug\net6.0\PythonHelper.csproj.CoreCompileInputs.cache
+D:\DEVELOPMENT\Study\VS2022dotnet\DotNet6\PythonHelper\obj\Debug\net6.0\PythonHelper.dll
+D:\DEVELOPMENT\Study\VS2022dotnet\DotNet6\PythonHelper\obj\Debug\net6.0\refint\PythonHelper.dll
+D:\DEVELOPMENT\Study\VS2022dotnet\DotNet6\PythonHelper\obj\Debug\net6.0\PythonHelper.pdb
+D:\DEVELOPMENT\Study\VS2022dotnet\DotNet6\PythonHelper\obj\Debug\net6.0\ref\PythonHelper.dll
+D:\DEVELOPMENT\Study\VS2022dotnet\DotNet7\PythonHelper\bin\Debug\net6.0\PythonHelper.deps.json
+D:\DEVELOPMENT\Study\VS2022dotnet\DotNet7\PythonHelper\bin\Debug\net6.0\PythonHelper.dll
+D:\DEVELOPMENT\Study\VS2022dotnet\DotNet7\PythonHelper\bin\Debug\net6.0\PythonHelper.pdb
+D:\DEVELOPMENT\Study\VS2022dotnet\DotNet7\PythonHelper\obj\Debug\net6.0\PythonHelper.csproj.AssemblyReference.cache
+D:\DEVELOPMENT\Study\VS2022dotnet\DotNet7\PythonHelper\obj\Debug\net6.0\PythonHelper.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEVELOPMENT\Study\VS2022dotnet\DotNet7\PythonHelper\obj\Debug\net6.0\PythonHelper.AssemblyInfoInputs.cache
+D:\DEVELOPMENT\Study\VS2022dotnet\DotNet7\PythonHelper\obj\Debug\net6.0\PythonHelper.AssemblyInfo.cs
+D:\DEVELOPMENT\Study\VS2022dotnet\DotNet7\PythonHelper\obj\Debug\net6.0\PythonHelper.csproj.CoreCompileInputs.cache
+D:\DEVELOPMENT\Study\VS2022dotnet\DotNet7\PythonHelper\obj\Debug\net6.0\PythonHelper.dll
+D:\DEVELOPMENT\Study\VS2022dotnet\DotNet7\PythonHelper\obj\Debug\net6.0\refint\PythonHelper.dll
+D:\DEVELOPMENT\Study\VS2022dotnet\DotNet7\PythonHelper\obj\Debug\net6.0\PythonHelper.pdb
+D:\DEVELOPMENT\Study\VS2022dotnet\DotNet7\PythonHelper\obj\Debug\net6.0\ref\PythonHelper.dll
+C:\Users\Gebruiker\Documents\Education\DotNet7 - Frenk\PythonHelper\bin\Debug\net6.0\PythonHelper.deps.json
+C:\Users\Gebruiker\Documents\Education\DotNet7 - Frenk\PythonHelper\bin\Debug\net6.0\PythonHelper.dll
+C:\Users\Gebruiker\Documents\Education\DotNet7 - Frenk\PythonHelper\bin\Debug\net6.0\PythonHelper.pdb
+C:\Users\Gebruiker\Documents\Education\DotNet7 - Frenk\PythonHelper\obj\Debug\net6.0\PythonHelper.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\Documents\Education\DotNet7 - Frenk\PythonHelper\obj\Debug\net6.0\PythonHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Documents\Education\DotNet7 - Frenk\PythonHelper\obj\Debug\net6.0\PythonHelper.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Documents\Education\DotNet7 - Frenk\PythonHelper\obj\Debug\net6.0\PythonHelper.AssemblyInfo.cs
+C:\Users\Gebruiker\Documents\Education\DotNet7 - Frenk\PythonHelper\obj\Debug\net6.0\PythonHelper.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Documents\Education\DotNet7 - Frenk\PythonHelper\obj\Debug\net6.0\PythonHelper.dll
+C:\Users\Gebruiker\Documents\Education\DotNet7 - Frenk\PythonHelper\obj\Debug\net6.0\refint\PythonHelper.dll
+C:\Users\Gebruiker\Documents\Education\DotNet7 - Frenk\PythonHelper\obj\Debug\net6.0\PythonHelper.pdb
+C:\Users\Gebruiker\Documents\Education\DotNet7 - Frenk\PythonHelper\obj\Debug\net6.0\ref\PythonHelper.dll

@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+		<TypeScriptTarget>ES2018</TypeScriptTarget>
+	</PropertyGroup>
+
+	<PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+		<TypeScriptTarget>ES2018</TypeScriptTarget>
+	</PropertyGroup>
+
+	<PropertyGroup>
+		<TargetFramework>net7.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="C:\Users\Gebruiker\Documents\Education\DotNet7 - Frenk\DBHelper.csproj" />
+		<ProjectReference Include="C:\Users\Gebruiker\Documents\Education\DotNet7 - Frenk\PythonHelper.csproj" />
+	</ItemGroup>
+
+  <ItemGroup>
+	  <Folder Include="Database\StoredProcedures\" />
+  </ItemGroup>
+
+</Project>

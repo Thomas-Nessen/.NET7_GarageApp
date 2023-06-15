@@ -1,0 +1,8 @@
+C:\Users\Gebruiker\Documents\Education\DotNet7 - Frenk\GarageApp\GarageApp\obj\Debug\net7.0\GarageApp.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\Documents\Education\DotNet7 - Frenk\GarageApp\GarageApp\obj\Debug\net7.0\GarageApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Documents\Education\DotNet7 - Frenk\GarageApp\GarageApp\obj\Debug\net7.0\GarageApp.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Documents\Education\DotNet7 - Frenk\GarageApp\GarageApp\obj\Debug\net7.0\GarageApp.AssemblyInfo.cs
+C:\Users\Gebruiker\Documents\Education\DotNet7 - Frenk\GarageApp\GarageApp\obj\Debug\net7.0\GarageApp.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Documents\Education\DotNet7 - Frenk\GarageApp\GarageApp\obj\Debug\net7.0\GarageApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gebruiker\Documents\Education\DotNet7 - Frenk\GarageApp\GarageApp\obj\Debug\net7.0\GarageApp.RazorAssemblyInfo.cache
+C:\Users\Gebruiker\Documents\Education\DotNet7 - Frenk\GarageApp\GarageApp\obj\Debug\net7.0\GarageApp.RazorAssemblyInfo.cs
